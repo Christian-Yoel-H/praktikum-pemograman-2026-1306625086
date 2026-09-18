@@ -11,7 +11,7 @@
 
 ## 2. Mathematical Equation
 > % Réaumur ke Celsius
-> R = \frac{4}{5}
+> $$R = \frac{4}{5}$$
 > 
 ## 3. Algorithm
 > 1. Mulai
