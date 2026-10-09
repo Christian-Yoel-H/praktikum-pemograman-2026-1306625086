@@ -1,8 +1,8 @@
-# Modul [04] - [Nama Topik Modul]
+# Modul [04] - [GRADING]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Christian Yoel Hutagaol]  
+**NIM:** [1306625086]  
+**Kelas:** [Fisika C]  
 
 ---
 
